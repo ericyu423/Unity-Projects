@@ -17,10 +17,10 @@ NumberWizardUI
 From youtube tutorials:
 
 
-Project LearningARKit.
+*Project LearningARKit.
   create plan object in AR envirnoment 
 
-Project UnityZombieiOS
+*Project UnityZombieiOS
   Using ARUnityPlugin with Zombie asset from Unity Store
 create a C# file to control zombie size and motion.
 successfully compiled and ran on iphone 6s
