@@ -22,6 +22,10 @@ From youtube tutorials:
 
 * Project UnityZombieiOS
   Using ARUnityPlugin with Zombie asset from Unity Store create a C# file to control zombie size and motion. successfully compiled and ran on iphone 6s
+  
+  <p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/zombie.png" width="200"/>
+  </p>
 
 
 
