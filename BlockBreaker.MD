@@ -73,3 +73,20 @@ to create
   
 - now you can use it to link level_01 to another scene via levelManager
 
+# Add Muisc object
+
+http://freesound.org/
+
+- drap the music file (in this case mp3) to asset folder
+
+- create MusicPlayer (GameObject -> create Empty)
+- click and drag into componenet (For some reason it didn't work so drag into the file hierachy it will attach itself)
+- transform the MusicPlayer object so (0,0,0) adjust volume 
+
+It will play now in the level_01 scene only for now
+
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note6.png" width="500"/>
+</p>
+
+
