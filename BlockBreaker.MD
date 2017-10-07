@@ -147,4 +147,11 @@ adjust z for background than you can put all your sprits at z = 0
 </p>
 
 
+# Aspect ratio
+
+all 3 ipad version pro/new/old have roughtly 1.3333 raito same as 800:600 
+
+pixel per unit (100)
+
+800 pixel map into 16 world units about 50 (pixel per world unit)
 
