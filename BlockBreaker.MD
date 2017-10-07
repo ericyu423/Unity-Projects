@@ -28,4 +28,17 @@ Open Current Project
 
 Imoprt - open package
 
-all files will inside asset 
+all files will inside assets folder
+
+# Get Fonts for labels
+
+
+ <p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note3.png" width="500"/>
+</p>
+https://www.dafont.com
+
+download get get TTF file drag and drop to asset folder (make subfolder fonts to keep things clean)
+
+command + click the text files and change all their fonts (ariel -> Blockt)
+
