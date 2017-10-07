@@ -1,7 +1,7 @@
 Notes:
 
 <p align="center">
-  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note1.png" width="200"/>
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note1.png" width="500"/>
 </p>
 
 create new project 
