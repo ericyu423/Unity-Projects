@@ -96,6 +96,13 @@ add component add a musicPlayer c# script so the music will keep playing when sc
   <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note8.png" width="500"/>
 </p>
 
+you can see debug information on the eft and see that you are creating a lot of music objects
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note9.png" width="500"/>
+</p>
+
+
+
 - problem it will play twice so need to create a singleton for the music object
 
 
