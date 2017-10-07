@@ -133,3 +133,18 @@ fix
 </p>
 
 place the checking code in awake solves the problem
+
+# Useful link to review coconcepts learned so far
+
+http://wiki.unity3d.com/index.php/Singleton
+https://unity3d.com/learn/tutorials/projects/2d-roguelike-tutorial/writing-game-manager
+
+# Z-Depth in 2D (just like other game engines)
+adjust z for background than you can put all your sprits at z = 0
+
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note15.png" width="500"/>
+</p>
+
+
+
