@@ -90,3 +90,12 @@ It will play now in the level_01 scene only for now
 </p>
 
 
+add component add a musicPlayer c# script so the music will keep playing when scene is changed
+- GameObject.DontDestroyOnLoad(gameObject);
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note8.png" width="500"/>
+</p>
+
+- problem it will play twice so need to create a singleton for the music object
+
+
