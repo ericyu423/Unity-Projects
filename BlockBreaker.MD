@@ -41,4 +41,13 @@ https://www.dafont.com
 download get get TTF file drag and drop to asset folder (make subfolder fonts to keep things clean)
 
 command + click the text files and change all their fonts (ariel -> Blockt)
+(adjust font size and text bounds it will not fit like before)
+
+# Link Start to Next Scene Level_01 (no need for script change)
+
+ <p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note4.png" width="500"/>
+</p>
+
+"on click" to the new level scene
 
