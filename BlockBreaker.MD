@@ -113,3 +113,5 @@ it can be access without initiating the object
 </p>
 
 so even if we have a music play instance in our other scene it will still destory itself
+
+* problem with this is it doesn't replay the music 
