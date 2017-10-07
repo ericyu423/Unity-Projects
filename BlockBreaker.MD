@@ -86,7 +86,7 @@ http://freesound.org/
 It will play now in the level_01 scene only for now
 
 <p align="center">
-  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note6.png" width="500"/>
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note7.png" width="500"/>
 </p>
 
 
