@@ -60,3 +60,16 @@ fix by adding scene to build settings
  <p align="center">
   <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note5.png" width="500"/>
 </p>
+
+ <p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note6.png" width="500"/>
+</p>
+
+
+- new scene "Level_01" does NOT have a game managerobject create it or copy and paste
+
+to create 
+  GameObject -> Create Empty -> drag LevelManger scrppt to "add component" 
+  
+- now you can use it to link level_01 to another scene via levelManager
+
