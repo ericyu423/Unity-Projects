@@ -53,4 +53,10 @@ command + click the text files and change all their fonts (ariel -> Blockt)
 
 Add temp Game over button on Level_01 Scene to test game scene flow
 
+"error message "level_01" couldn't be loaded
 
+fix by adding scene to build settings
+
+ <p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note5.png" width="500"/>
+</p>
