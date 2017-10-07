@@ -115,3 +115,21 @@ it can be access without initiating the object
 so even if we have a music play instance in our other scene it will still destory itself
 
 * problem with this is it doesn't replay the music 
+
+# debugging (introduce some probblems and fix them)
+
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note11.png" width="500"/>
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note12.png" width="500"/>
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note13.png" width="500"/>
+</p>
+
+copy paste musicplayer Object to another scene (it will get play twice breifly when the program transitions to level_01)
+
+fix
+
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note14.png" width="500"/>
+</p>
+
+place the checking code in awake solves the problem
