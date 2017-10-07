@@ -105,4 +105,11 @@ you can see debug information on the eft and see that you are creating a lot of 
 
 - problem it will play twice so need to create a singleton for the music object
 
+we need to create static variable (static is share globally same as in Swift) 
+it can be access without initiating the object
 
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note10.png" width="500"/>
+</p>
+
+so even if we have a music play instance in our other scene it will still destory itself
