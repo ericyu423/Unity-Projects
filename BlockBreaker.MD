@@ -176,4 +176,21 @@ default "game space" is 16 (horizontal)
 * pixel per unit should be define to 50 (100 was default)
 
 
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note19.png" width="500"/>
+</p>
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note20.png" width="500"/>
+</p>
+
+* resize camera
+* resize ball
+
+
+
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note21.png" width="500"/>
+</p>
+
+annoying camera icon can be resize so you wont see it under "gizmos" in scene window upper right
 
