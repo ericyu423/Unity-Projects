@@ -155,3 +155,9 @@ pixel per unit (100)
 
 800 pixel map into 16 world units about 50 (pixel per world unit)
 
+# problem with camera preview (this take a while but problem with with layer, adjust it preview will show up)
+
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note17.png" width="500"/>
+</p>
+
