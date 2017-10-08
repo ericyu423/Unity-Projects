@@ -194,3 +194,16 @@ default "game space" is 16 (horizontal)
 
 annoying camera icon can be resize so you wont see it under "gizmos" in scene window upper right
 
+# sprite (ridgibody2D)
+* add componenet type - ridgibody2D (basically attach gravity mass to the object)
+* add circular collider to detech ball falling off the screen (looks it it create detection areas around the object, you can change it's radius if it is too small or too large)
+
+isTrigger leave it uncheck( seems like if you can it wont' collide with other object)
+
+* add something else to collide with at the bottom 
+
+
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note23.png" width="500"/>
+</p>
+
