@@ -229,4 +229,10 @@ trigger
 void onTriggerEnter2D(Collider2D collider)
 
 
-
+#linking levelManager to LoserCollider
+ * before we were linking button inside cavnas to the levelmanger this time we don't use a canvas
+ 
+ 
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note27.png" width="500"/>
+</p>
