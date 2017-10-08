@@ -207,3 +207,26 @@ isTrigger leave it uncheck( seems like if you can it wont' collide with other ob
   <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note23.png" width="500"/>
 </p>
 
+
+# trigger and collisions 
+
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note24.png" width="500"/>
+</p>
+
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note25.png" width="500"/>
+</p>
+
+
+when collison happen physic is been calculated
+
+script detecting 
+
+collision detection
+void OnCollisionEnter2D(Collision2D collision)
+trigger
+void onTriggerEnter2D(Collider2D collider)
+
+
+
