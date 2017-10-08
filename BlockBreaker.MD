@@ -200,7 +200,7 @@ annoying camera icon can be resize so you wont see it under "gizmos" in scene wi
 
 isTrigger leave it uncheck( seems like if you can it wont' collide with other object)
 
-* add something else to collide with at the bottom 
+* add an object to detect the ball falling out/ check isTriggger it will go through the object
 
 
 <p align="center">
