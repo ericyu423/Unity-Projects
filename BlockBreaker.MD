@@ -160,4 +160,20 @@ pixel per unit (100)
 <p align="center">
   <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note17.png" width="500"/>
 </p>
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note18.png" width="500"/>
+</p>
+
+    click and drag the camera to check if "distnace" is 16 world units
+    
+little bit of math.
+We start with 800x600 (defined in proj 1)
+the pictures is 800x600 pixels
+
+default "game space" is 16 (horizontal)
+
+16 will need to take on 800 pixels which means 50 pxiesl / game space 
+* pixel per unit should be define to 50 (100 was default)
+
+
 
