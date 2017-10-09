@@ -236,3 +236,16 @@ void onTriggerEnter2D(Collider2D collider)
 <p align="center">
   <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note27.png" width="500"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note28.png" width="500"/>
+</p>
+
+
+-steps
+1. collison trigger 
+2. levelManager.LoadLevel("Win"); this called the scene
+3. we can access levelManger by click and drop levelManger Object to the Collison Object
+
+
+
