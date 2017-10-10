@@ -248,4 +248,14 @@ void onTriggerEnter2D(Collider2D collider)
 3. we can access levelManger by click and drop levelManger Object to the Collison Object
 
 
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note29.png" width="500"/>
+</p>
+
+Kinematic moving things that affected by game physics
+
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note30.png" width="500"/>
+</p>
+
 
