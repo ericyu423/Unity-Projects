@@ -258,4 +258,13 @@ Kinematic moving things that affected by game physics
   <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note30.png" width="500"/>
 </p>
 
+# Make ball bouncy
+
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note31.png" width="500"/>
+</p>
+
+hum...I can see the downside of all these storyboard type UIs...it takes so many clicks it is faster to write code for it
+
+
 
