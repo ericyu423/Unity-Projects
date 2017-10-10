@@ -272,3 +272,11 @@ hum...I can see the downside of all these storyboard type UIs...it takes so many
 </p>
 
 script attached the paddle to make it move, nothing different here except syntax, compare to other engines
+
+
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note34.png" width="500"/>
+</p>
+
+sometimes ball can fall off paddle, fix it by script order
+
