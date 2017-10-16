@@ -18,3 +18,9 @@ things that are re-usable throughout your game
 
 https://docs.unity3d.com/Manual/InstantiatingPrefabs.html
 
+<p align="center">
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note38.png" width="500"/>
+  <img src="https://github.com/ericyu423/Unity-Projects/blob/master/pics/note39.png" width="500"/>
+</p>
+
+
